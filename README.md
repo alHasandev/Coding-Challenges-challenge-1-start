@@ -19,5 +19,5 @@ This is my solution to [Coding Challenge #1 - Slide in Menu](https://youtu.be/4v
 - Thanks a lot to @iamshaunjp from [The Net Ninja](https://www.youtube.com/c/TheNetNinja/) for always gives amazing videos
 - This is my best solution that i can think of that don't need me to write any javascript code
 - Feel free to point out if i make any mistake or if you have any suggestion.
-- Again thanks so much to @iamshaunjp for this challage, i learned a lot while trying to complete this challenge.
+- Again thanks so much to @iamshaunjp for this challange, i learned a lot while trying to complete this challenge.
 - Thanks for your time.
