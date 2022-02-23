@@ -98,7 +98,7 @@ main {
   flex-direction: column;
   row-gap: 1rem;
   background-color: #222;
-  padding: calc(40px + 2rem) 20px;
+  padding: calc(40px + 4rem) 20px;
   width: 15em;
   height: 100vh;
   transform: translateX(-100%);
